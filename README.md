@@ -1,16 +1,24 @@
-## Hi there 👋
+### Olá, eu sou o Samuel 👋
 
-<!--
-**Stuartti/Stuartti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Tenho 19 anos e sou de Minas Gerais (MG).
+- 💻 Estou focado em aprender **Python** e mergulhar fundo no mundo da programação daqui para frente!
+- 🎯 Meu objetivo é evoluir e começar a desenvolver meus próprios projetos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Stack
+
+[![Minhas Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
+
+---
+
+### 🛠️ Ferramentas
+
+[![Minhas Ferramentas](https://skillicons.dev/icons?i=vscode,git,pycharm)](https://skillicons.dev)
+
+---
+
+### 📫 Contato
+
+- 📧 E-mail: corbellisamuel0@gmail.com
+- 📸 Instagram: [@samuel_corbelli](https://instagram.com/samuel_corbelli)
