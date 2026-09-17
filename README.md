@@ -1,12 +1,12 @@
 ### Olá, eu sou o Samuel 👋
 
 -  Tenho 19 anos e sou de Minas Gerais (MG)
-- Estou focado em aprender **Python**, POO e projetos em HTML E CSS
+- Estou focado em aprender Python, POO e projetos em HTML E CSS
 -  Meu objetivo é evoluir e colocar todas as minhas ideias fora da cartola aqui huehue
 
 ---
 
-### 🚀 Stack
+### Stack 
 
 [![Minhas Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
