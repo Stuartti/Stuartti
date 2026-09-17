@@ -2,10 +2,10 @@
 
 
 <div align="center">
-  <img src="./assets/b3f4cd33586f9b934a4f2afedbe69751.jpg" width="600px" alt="Banner" />
+  <img src="./assets/b3f4cd33586f9b934a4f2afedbe69751.jpg" width="900px" alt="Banner" />
 </div>
 <br>
----
+
 
 -  Tenho 19 anos e sou de Minas Gerais (MG)
 - Estou focado em aprender Python, POO e projetos em HTML E CSS
