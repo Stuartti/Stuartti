@@ -2,7 +2,7 @@
 
 -  Tenho 19 anos e sou de Minas Gerais (MG)
 - Estou focado em aprender Python, POO e projetos em HTML E CSS
--  Meu objetivo é evoluir e colocar todas as minhas ideias fora da cartola aqui huehue
+-  Meu objetivo é evoluir e colocar todas as minhas ideias fora da cartola aqui 
 
 ---
 
