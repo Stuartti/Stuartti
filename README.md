@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://imgur.com/a/zBudiPg" width="300px" alt="Aizen" />
+  <img src="https://i.pinimg.com/originals/1b/73/1a/1b731a8379b0744c580711d552f6e634.gif" width="300px" alt="Aizen" />
 </div>
 <br>
 
