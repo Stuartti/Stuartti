@@ -2,10 +2,9 @@
 
 
 <div align="center">
-  <img src="./assets/b3f4cd33586f9b934a4f2afedbe69751.jpg width="300px" alt="Aizen" />
+  <img src="./assets/b3f4cd33586f9b934a4f2afedbe69751.jpg" width="300px" alt="Banner" />
 </div>
 <br>
-
 ---
 
 -  Tenho 19 anos e sou de Minas Gerais (MG)
