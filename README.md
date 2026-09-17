@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./assets/b3f4cd33586f9b934a4f2afedbe69751.jpg" width="300px" alt="Banner" />
+  <img src="./assets/b3f4cd33586f9b934a4f2afedbe69751.jpg" width="600px" alt="Banner" />
 </div>
 <br>
 ---
