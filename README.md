@@ -5,10 +5,10 @@
 </div>
 <br>
 
--  Estudante de Inteligência Artificial em Juiz de Fora (MG)
--  Foco em automações de processos, integração de APIs e uso prático de IA
-
-
+- 🎓 Estudante de Inteligência Artificial em Juiz de Fora (MG)
+- ⚙️ Focado em automações de processos, integração de APIs e uso prático de IA
+- 🚀 Buscando minha primeira oportunidade no mercado de tecnologia
+- 🎯 Meu objetivo é transformar processos manuais em fluxos automáticos e escaláveis
 
 ---
 
@@ -20,9 +20,9 @@
 
 ### 🛠️ Ferramentas
 
-[![Minhas Ferramentas](https://skillicons.dev/icons?i=vscode,git,pycharm,linux)](https://skillicons.dev)
+[![Minhas Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,pycharm,n8n)](https://skillicons.dev)
 
-*(Automação: n8n, Zapier | IA: ChatGPT, Claude, geração de prompts)*
+*(IA: ChatGPT, Claude, geração de prompts)*
 
 ---
 
