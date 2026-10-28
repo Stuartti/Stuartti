@@ -5,10 +5,9 @@
 </div>
 <br>
 
-- 🎓 Estudante de Inteligência Artificial em Juiz de Fora (MG)
-- ⚙️ Focado em automações de processos, integração de APIs e uso prático de IA
-- 🚀 Buscando minha primeira oportunidade no mercado de tecnologia
-- 🎯 Meu objetivo é transformar processos manuais em fluxos automáticos e escaláveis
+- Estudante de Inteligência Artificial em Juiz de Fora (MG)
+-  Focado em automações de processos, integração de APIs e uso prático de IA
+
 
 ---
 
